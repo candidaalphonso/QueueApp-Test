@@ -1,0 +1,6 @@
+c:\users\frewer\documents\visual studio 2013\Projects\QueueApp\QueueApp\bin\QueueApp.dll.config
+c:\users\frewer\documents\visual studio 2013\Projects\QueueApp\QueueApp\bin\QueueApp.dll
+c:\users\frewer\documents\visual studio 2013\Projects\QueueApp\QueueApp\bin\QueueApp.pdb
+c:\users\frewer\documents\visual studio 2013\Projects\QueueApp\QueueApp\obj\Debug\QueueApp.csprojResolveAssemblyReference.cache
+c:\users\frewer\documents\visual studio 2013\Projects\QueueApp\QueueApp\obj\Debug\QueueApp.dll
+c:\users\frewer\documents\visual studio 2013\Projects\QueueApp\QueueApp\obj\Debug\QueueApp.pdb

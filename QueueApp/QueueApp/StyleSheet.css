@@ -1,0 +1,44 @@
+﻿.header
+{
+    background-color:lightgray;
+    height:33px;
+    font-size:larger;
+}
+
+table
+{
+    width:80%;
+    border: thin solid #C0C0C0;
+}
+
+td
+{
+    height:23px;
+}
+
+
+ .radio input[type="radio"]   {
+            background-color:blue;
+            border:ridge;
+        }
+ 
+ .buttondiv{
+     background-color:#0094ff;
+     width:48%;
+     border-radius: 5px;
+
+ }
+
+  .button{
+     background-color:#0094ff;
+     border-radius: 5px;
+     border:1px;
+     height:16px;
+     border-color:black;
+     text-emphasis-color:white
+ }
+
+  .button:hover{
+    background: blue;  }
+
+  
